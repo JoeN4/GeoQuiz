@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="correct_toast">Correct</string>
+    <string name="next_button">Next</string>
+    <string name="question_america">Texas is the largest state.</string>
+    <string name="question_europe">The Alps are located in Germany.</string>
+    <string name="question_asia">China is the largest country in Asia.</string>
+</resources>
